@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+.header{
+	height:90vh;
+	width:100%;
+/* 	background-image: url('./images/cricket.jpg'); */
+	/*gradient on image note file structure*/
+/* 	 background-image: */
+/*     linear-gradient(to bottom, rgb(62, 32,233), rgba(250,64,64, 0.73)), */
+/*     url('../images/cricket.jpg'); */
+    background-size:cover;
+	
+	color:red;
+	
+	
+}
+.h-100{
+	height:100%;
+	width:100%;
+}
+.imgclass{
+	width:100%;
+	height:100%;
+	
+	
+}
+.message{
+	background-image:linear-gradient(to top,#fad0c4 0%,#ffd1ff 100%);
+}
+.myicon{
+	font-size:60px;
+	padding:20px;
+	color:red;
+}
+
+.color
+{
+	color:#808000;
+}
